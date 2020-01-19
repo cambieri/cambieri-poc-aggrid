@@ -1,14 +1,24 @@
 <ion-header>
   <ion-toolbar>
     <ion-title>
-      Ionic Blank
+      Cambieri.IT - ag-Grid Enterprise POC
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
   <div class="ion-padding">
-    The world is your oyster.
-    <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+    <ag-grid-angular style="width: 100%; height: 680px;" class="ag-theme-balham" [rowData]="rowData" [columnDefs]="columnDefs" 
+        [pagination]="true" [paginationPageSize]="30" [localeText]="localeText"
+        [masterDetail]="true"
+        [detailCellRendererParams]="detailCellRendererParams">
+    </ag-grid-angular>
+    <hr/>
+    <!-- <ag-grid-angular style="width: 100%; height: 87%;" class="ion-padding ag-theme-balham" [rowData]="elePdf"
+    [columnDefs]="columnDefs" [modules]="modules"
+    [frameworkComponents]="frameworkComponents" [rowHeight]="rowHeight" (gridReady)="onGridReady($event)"
+    [pagination]="true" [paginationPageSize]="30" [localeText]="labelText.localeText"
+    (filterChanged)="filterChanged($event)" (rowDataChanged)="rowDataChanged()" >
+  </ag-grid-angular> -->
   </div>
 </ion-content>
