@@ -11,7 +11,8 @@
     <ag-grid-angular style="width: 100%; height: 680px;" class="ag-theme-balham" [rowData]="rowData" [columnDefs]="columnDefs" 
         [pagination]="true" [paginationPageSize]="30" [localeText]="localeText"
         [masterDetail]="true"
-        [detailCellRendererParams]="detailCellRendererParams">
+        [detailCellRendererParams]="detailCellRendererParams"
+        [getRowHeight]="getRowHeight">
     </ag-grid-angular>
     <hr/>
     <!-- <ag-grid-angular style="width: 100%; height: 87%;" class="ion-padding ag-theme-balham" [rowData]="elePdf"

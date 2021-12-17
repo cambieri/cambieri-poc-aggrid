@@ -178,151 +178,11 @@ export class HomePage {
         "number": "(01) 7432576"
       }, {
         "name": "susan",
-        "callId": 557,
-        "duration": 90,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(09) 76105491"
-      }, {
-        "name": "susan",
-        "callId": 558,
-        "duration": 83,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(03) 72020613"
-      }, {
-        "name": "susan",
-        "callId": 559,
-        "duration": 94,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(04) 98295709"
-      }, {
-        "name": "susan",
-        "callId": 560,
-        "duration": 102,
-        "switchCode": "SW2",
-        "direction": "Out",
-        "number": "(07) 96771309"
-      }, {
-        "name": "susan",
-        "callId": 561,
-        "duration": 22,
-        "switchCode": "SW3",
-        "direction": "Out",
-        "number": "(08) 38428058"
-      }, {
-        "name": "susan",
-        "callId": 562,
-        "duration": 88,
-        "switchCode": "SW2",
-        "direction": "Out",
-        "number": "(02) 70137438"
-      }, {
-        "name": "susan",
-        "callId": 563,
-        "duration": 77,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(06) 48756154"
-      }, {
-        "name": "susan",
-        "callId": 564,
-        "duration": 85,
-        "switchCode": "SW5",
-        "direction": "Out",
-        "number": "(00) 11319412"
-      }, {
-        "name": "susan",
-        "callId": 565,
-        "duration": 82,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(02) 37557264"
-      }, {
-        "name": "susan",
         "callId": 566,
         "duration": 75,
         "switchCode": "SW4",
         "direction": "In",
         "number": "(00) 94729563"
-      }, {
-        "name": "susan",
-        "callId": 567,
-        "duration": 46,
-        "switchCode": "SW0",
-        "direction": "In",
-        "number": "(09) 20489000"
-      }, {
-        "name": "susan",
-        "callId": 568,
-        "duration": 90,
-        "switchCode": "SW0",
-        "direction": "In",
-        "number": "(04) 90652096"
-      }, {
-        "name": "susan",
-        "callId": 569,
-        "duration": 49,
-        "switchCode": "SW2",
-        "direction": "In",
-        "number": "(00) 73342113"
-      }, {
-        "name": "susan",
-        "callId": 570,
-        "duration": 40,
-        "switchCode": "SW0",
-        "direction": "Out",
-        "number": "(01) 79831695"
-      }, {
-        "name": "susan",
-        "callId": 571,
-        "duration": 105,
-        "switchCode": "SW8",
-        "direction": "In",
-        "number": "(03) 28694433"
-      }, {
-        "name": "susan",
-        "callId": 572,
-        "duration": 64,
-        "switchCode": "SW9",
-        "direction": "In",
-        "number": "(03) 8705515"
-      }, {
-        "name": "susan",
-        "callId": 573,
-        "duration": 44,
-        "switchCode": "SW7",
-        "direction": "In",
-        "number": "(01) 180304"
-      }, {
-        "name": "susan",
-        "callId": 574,
-        "duration": 24,
-        "switchCode": "SW4",
-        "direction": "In",
-        "number": "(05) 33983060"
-      }, {
-        "name": "susan",
-        "callId": 575,
-        "duration": 40,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(02) 4129807"
-      }, {
-        "name": "susan",
-        "callId": 576,
-        "duration": 24,
-        "switchCode": "SW9",
-        "direction": "Out",
-        "number": "(01) 89806499"
-      }, {
-        "name": "susan",
-        "callId": 577,
-        "duration": 36,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(09) 13139104"
       }, {
         "name": "susan",
         "callId": 578,
@@ -940,7 +800,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "23/02/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "4242A7402Y",
@@ -966,7 +855,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "15/08/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9305A3614Y",
@@ -992,7 +910,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "04/02/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "2547A9862Y",
@@ -1018,7 +965,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "24/01/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "3384A1018Y",
@@ -1044,7 +1020,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "30/04/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6402A7789Y",
@@ -1070,7 +1075,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "21/03/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6084A5810Y",
@@ -1095,7 +1129,36 @@ export class HomePage {
         "descr": "Respinto"
       },
       "livelloApprovatore": "PM",
-      "dataApprovazione": "05/05/2019"
+      "dataApprovazione": "05/05/2019",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5981A3973Y",
@@ -1121,7 +1184,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "05/12/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8241A2969Y",
@@ -1147,7 +1239,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "07/04/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6133A6516Y",
@@ -1173,7 +1294,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "15/08/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "2373A1287Y",
@@ -1199,7 +1349,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "28/07/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6777A6601Y",
@@ -1225,7 +1404,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "24/07/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "7707A8246Y",
@@ -1251,7 +1459,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "15/05/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9987A4323Y",
@@ -1277,7 +1514,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "01/07/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "2647A9901Y",
@@ -1303,7 +1569,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "28/10/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1784A7623Y",
@@ -1329,7 +1624,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "07/04/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "2573A6594Y",
@@ -1355,7 +1679,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "02/05/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "4751A8847Y",
@@ -1381,7 +1734,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "24/09/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5998A2294Y",
@@ -1407,7 +1789,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "27/02/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "2714A1140Y",
@@ -1433,7 +1844,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "04/07/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8951A7663Y",
@@ -1459,7 +1899,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "01/09/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8687A9775Y",
@@ -1485,7 +1954,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "12/01/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9531A4133Y",
@@ -1511,7 +2009,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "21/09/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8444A9116Y",
@@ -1537,7 +2064,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "08/04/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "3156A1571Y",
@@ -1563,7 +2119,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "05/03/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9949A2683Y",
@@ -1589,7 +2174,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "06/05/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9480A7382Y",
@@ -1615,7 +2229,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "23/03/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5234A2698Y",
@@ -1641,7 +2284,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "29/08/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1390A9740Y",
@@ -1667,7 +2339,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "18/06/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5805A3456Y",
@@ -1693,7 +2394,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "10/10/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1281A1166Y",
@@ -1719,7 +2449,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "30/07/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "4671A9570Y",
@@ -1745,7 +2504,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "23/05/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "7988A7305Y",
@@ -1771,7 +2559,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "06/03/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1371A6456Y",
@@ -1797,7 +2614,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "10/02/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9313A6527Y",
@@ -1823,7 +2669,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "25/06/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6225A6004Y",
@@ -1849,7 +2724,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "30/05/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5165A4920Y",
@@ -1875,7 +2779,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "01/01/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8631A4027Y",
@@ -1901,7 +2834,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "08/04/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8860A3415Y",
@@ -1927,7 +2889,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "24/05/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8505A3535Y",
@@ -1953,7 +2944,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "12/07/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "7256A8463Y",
@@ -1979,7 +2999,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "30/04/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "4994A6066Y",
@@ -2005,7 +3054,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "05/06/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9069A7953Y",
@@ -2031,7 +3109,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "21/09/2018",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8736A4525Y",
@@ -2057,7 +3164,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "15/01/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5795A8307Y",
@@ -2083,7 +3219,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "02/01/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8178A4677Y",
@@ -2109,7 +3274,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "20/11/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9198A6673Y",
@@ -2135,7 +3329,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "17/06/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "8885A9803Y",
@@ -2161,7 +3384,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Director",
       "dataApprovazione": "01/03/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9065A1125Y",
@@ -2187,7 +3439,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "21/01/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "6689A2137Y",
@@ -2213,7 +3494,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "27/02/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "3309A3959Y",
@@ -2239,7 +3549,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "18/11/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "7060A7712Y",
@@ -2265,7 +3604,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "17/06/2019",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5563A4652Y",
@@ -2291,7 +3659,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "25/12/2015",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "3762A5267Y",
@@ -2317,7 +3714,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "29/08/2016",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1160A5693Y",
@@ -2343,7 +3769,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Admin Manager",
       "dataApprovazione": "22/08/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "5089A4803Y",
@@ -2369,7 +3824,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "03/01/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "9024A2434Y",
@@ -2395,7 +3879,36 @@ export class HomePage {
       },
       "livelloApprovatore": "PM",
       "dataApprovazione": "28/12/2014",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     },
     {
       "idPdf": "1549A6509Y",
@@ -2421,7 +3934,36 @@ export class HomePage {
       },
       "livelloApprovatore": "Sales Manager",
       "dataApprovazione": "17/01/2017",
-      "dataInserimento": "08/12/2018"
+      "dataInserimento": "08/12/2018",
+      "detailRowData": [{
+        "name": "susan",
+        "callId": 555,
+        "duration": 72,
+        "switchCode": "SW3",
+        "direction": "Out",
+        "number": "(00) 88542069"
+      }, {
+        "name": "susan",
+        "callId": 556,
+        "duration": 61,
+        "switchCode": "SW3",
+        "direction": "In",
+        "number": "(01) 7432576"
+      }, {
+        "name": "susan",
+        "callId": 566,
+        "duration": 75,
+        "switchCode": "SW4",
+        "direction": "In",
+        "number": "(00) 94729563"
+      }, {
+        "name": "susan",
+        "callId": 578,
+        "duration": 46,
+        "switchCode": "SW6",
+        "direction": "In",
+        "number": "(06) 8486087"
+      }]
     }
   ]
 
@@ -2442,177 +3984,17 @@ export class HomePage {
       }
     },
     getDetailRowData: function (params) {
-      // params.successCallback(params.data.detailRowData);
-      let detailRowDataTest = [{
-        "name": "susan",
-        "callId": 555,
-        "duration": 72,
-        "switchCode": "SW3",
-        "direction": "Out",
-        "number": "(00) 88542069"
-      }, {
-        "name": "susan",
-        "callId": 556,
-        "duration": 61,
-        "switchCode": "SW3",
-        "direction": "In",
-        "number": "(01) 7432576"
-      }, {
-        "name": "susan",
-        "callId": 557,
-        "duration": 90,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(09) 76105491"
-      }, {
-        "name": "susan",
-        "callId": 558,
-        "duration": 83,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(03) 72020613"
-      }, {
-        "name": "susan",
-        "callId": 559,
-        "duration": 94,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(04) 98295709"
-      }, {
-        "name": "susan",
-        "callId": 560,
-        "duration": 102,
-        "switchCode": "SW2",
-        "direction": "Out",
-        "number": "(07) 96771309"
-      }, {
-        "name": "susan",
-        "callId": 561,
-        "duration": 22,
-        "switchCode": "SW3",
-        "direction": "Out",
-        "number": "(08) 38428058"
-      }, {
-        "name": "susan",
-        "callId": 562,
-        "duration": 88,
-        "switchCode": "SW2",
-        "direction": "Out",
-        "number": "(02) 70137438"
-      }, {
-        "name": "susan",
-        "callId": 563,
-        "duration": 77,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(06) 48756154"
-      }, {
-        "name": "susan",
-        "callId": 564,
-        "duration": 85,
-        "switchCode": "SW5",
-        "direction": "Out",
-        "number": "(00) 11319412"
-      }, {
-        "name": "susan",
-        "callId": 565,
-        "duration": 82,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(02) 37557264"
-      }, {
-        "name": "susan",
-        "callId": 566,
-        "duration": 75,
-        "switchCode": "SW4",
-        "direction": "In",
-        "number": "(00) 94729563"
-      }, {
-        "name": "susan",
-        "callId": 567,
-        "duration": 46,
-        "switchCode": "SW0",
-        "direction": "In",
-        "number": "(09) 20489000"
-      }, {
-        "name": "susan",
-        "callId": 568,
-        "duration": 90,
-        "switchCode": "SW0",
-        "direction": "In",
-        "number": "(04) 90652096"
-      }, {
-        "name": "susan",
-        "callId": 569,
-        "duration": 49,
-        "switchCode": "SW2",
-        "direction": "In",
-        "number": "(00) 73342113"
-      }, {
-        "name": "susan",
-        "callId": 570,
-        "duration": 40,
-        "switchCode": "SW0",
-        "direction": "Out",
-        "number": "(01) 79831695"
-      }, {
-        "name": "susan",
-        "callId": 571,
-        "duration": 105,
-        "switchCode": "SW8",
-        "direction": "In",
-        "number": "(03) 28694433"
-      }, {
-        "name": "susan",
-        "callId": 572,
-        "duration": 64,
-        "switchCode": "SW9",
-        "direction": "In",
-        "number": "(03) 8705515"
-      }, {
-        "name": "susan",
-        "callId": 573,
-        "duration": 44,
-        "switchCode": "SW7",
-        "direction": "In",
-        "number": "(01) 180304"
-      }, {
-        "name": "susan",
-        "callId": 574,
-        "duration": 24,
-        "switchCode": "SW4",
-        "direction": "In",
-        "number": "(05) 33983060"
-      }, {
-        "name": "susan",
-        "callId": 575,
-        "duration": 40,
-        "switchCode": "SW1",
-        "direction": "In",
-        "number": "(02) 4129807"
-      }, {
-        "name": "susan",
-        "callId": 576,
-        "duration": 24,
-        "switchCode": "SW9",
-        "direction": "Out",
-        "number": "(01) 89806499"
-      }, {
-        "name": "susan",
-        "callId": 577,
-        "duration": 36,
-        "switchCode": "SW5",
-        "direction": "In",
-        "number": "(09) 13139104"
-      }, {
-        "name": "susan",
-        "callId": 578,
-        "duration": 46,
-        "switchCode": "SW6",
-        "direction": "In",
-        "number": "(06) 8486087"
-      }];
-      params.successCallback(detailRowDataTest);
+      params.successCallback(params.data.detailRowData);
+    }
+  };
+
+  public getRowHeight = function (params) {
+    if (params.node && params.node.detail) {
+      var offset = 80;
+      var allDetailRowHeight = params.data.detailRowData.length * 28;
+      return allDetailRowHeight + offset;
+    } else {
+      return 28;
     }
   };
 
